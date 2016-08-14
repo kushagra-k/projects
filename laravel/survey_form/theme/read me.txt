@@ -1,0 +1,6 @@
+Theme Name: Curi 1.0 
+Author: John Max 
+License: GPL 
+This theme is 100% freee for use. You can distribute it without any restriction.  
+The images are downloaded fro www.pixabay.com. They are the copyright holder for the images. 
+Thank you. 
